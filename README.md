@@ -2,8 +2,6 @@
 
 🎓 I am a Software Engineer graduated from UEPG and postgraduate in UX Design and Beyond from PUCRS
 
-🔎 I worked as a UX Designer for about 8 years
-
 👩‍💻 Currently, I work as a Product Manager at Stone, focusing my efforts on the area of BAAS (Banking as a Service).<br>
 Beyond my work at Stone, I have the privilege of leading the Technology and Innovation Community of Ponta Grossa, known as Campos Valley, where I collaborate with fellow professionals to drive innovation in our region.
 <br><br>
