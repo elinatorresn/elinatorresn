@@ -3,15 +3,15 @@
 🎓 I am a Software Engineer graduated from UEPG and postgraduate in UX Design and Beyond from PUCRS
 
 👩‍💻 Currently, I work as a Product Manager at Stone, focusing my efforts on the area of BAAS (Banking as a Service).<br>
-Beyond my work at Stone, I have the privilege of leading the Technology and Innovation Community of Ponta Grossa, known as Campos Valley, where I collaborate with fellow professionals to drive innovation in our region.
+Beyond my work at Stone, I have the privilege of leading the Technology and Innovation Community of Ponta Grossa, known as Campos .tech, where I collaborate with fellow professionals to drive innovation in our region.
 <br><br>
 
 # 📚 Programming languages
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <br>
